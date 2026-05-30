@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kaviya%20M&fontSize=52&fontColor=fff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Agentic%20AI%20Builder&descAlignY=58&descColor=a5b4fc&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A5B4FC&center=true&vCenter=true&width=500&lines=B.Tech+AI+%26+Data+Science+%7C+CPA+8.6;LangChain+%7C+CrewAI+%7C+Agentic+AI;React+%7C+FastAPI+%7C+Full+Stack;400%2B+LeetCode+%7C+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A5B4FC&center=true&vCenter=true&width=500&lines=B.Tech+AI+%26+Data+Science;LangChain+%7C+CrewAI+%7C+Agentic+AI;React+%7C+FastAPI+%7C+Full+Stack;400%2B+LeetCode+%7C+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -24,7 +24,6 @@ class KaviyaM:
         self.name      = "Kaviya M"
         self.college   = "Chennai Institute of Technology"
         self.degree    = "B.Tech — AI & Data Science (2024–2028)"
-        self.cgpa      = 8.6
         self.focus     = ["Agentic AI", "LLM Integration", "Full Stack"]
         self.interning = "Prodapt | Building multi-agent systems"
         self.email     = "murugankaviya007@gmail.com"
@@ -65,10 +64,8 @@ KaviyaM().say_hi()
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=a5b4fc&text_color=ffffff&count_private=true" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=ffffff" />
 
-<br/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=ffffff" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a5b4fc&fire=f87171&currStreakLabel=ffffff&stroke=a5b4fc" />
 
